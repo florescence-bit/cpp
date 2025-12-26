@@ -1,2 +1,6 @@
-# Build directories #
-/bin/
+# Ignore all files without an extension (common for Linux executables)
+*
+!*/
+!*.cpp
+!*.h
+!.gitignore
