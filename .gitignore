@@ -1,0 +1,14 @@
+ompiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.out
+*.app
+*.dylib
+
+# Build directories #
+/bin/
+/build/
